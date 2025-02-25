@@ -1,0 +1,6 @@
+source;share/infra_button/hook/pythonpath.ps1
+source;share/infra_button/hook/pythonpath.dsv
+source;share/infra_button/hook/pythonpath.sh
+source;share/infra_button/hook/ament_prefix_path.ps1
+source;share/infra_button/hook/ament_prefix_path.dsv
+source;share/infra_button/hook/ament_prefix_path.sh

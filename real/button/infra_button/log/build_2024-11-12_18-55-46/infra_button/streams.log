@@ -1,0 +1,41 @@
+[0.358s] Invoking command in '/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button': PYTHONPATH=/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/infra_button build --build-base /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build install --record /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/install.log --single-version-externally-managed install_data
+[0.480s] running egg_info
+[0.481s] creating build/infra_button/infra_button.egg-info
+[0.481s] writing build/infra_button/infra_button.egg-info/PKG-INFO
+[0.481s] writing dependency_links to build/infra_button/infra_button.egg-info/dependency_links.txt
+[0.481s] writing entry points to build/infra_button/infra_button.egg-info/entry_points.txt
+[0.481s] writing requirements to build/infra_button/infra_button.egg-info/requires.txt
+[0.481s] writing top-level names to build/infra_button/infra_button.egg-info/top_level.txt
+[0.482s] writing manifest file 'build/infra_button/infra_button.egg-info/SOURCES.txt'
+[0.482s] reading manifest file 'build/infra_button/infra_button.egg-info/SOURCES.txt'
+[0.483s] writing manifest file 'build/infra_button/infra_button.egg-info/SOURCES.txt'
+[0.483s] running build
+[0.483s] running build_py
+[0.483s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build
+[0.483s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib
+[0.483s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button
+[0.483s] copying infra_button/button_publisher.py -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button
+[0.483s] copying infra_button/__init__.py -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button
+[0.484s] running install
+[0.484s] running install_lib
+[0.484s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button
+[0.484s] copying /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button/button_publisher.py -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button
+[0.484s] copying /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button/__init__.py -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button
+[0.484s] byte-compiling /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button/button_publisher.py to button_publisher.cpython-310.pyc
+[0.485s]   File "/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button/button_publisher.py", line 41
+[0.485s]     self.status_button_a_ = !self.status_button_a_
+[0.485s]                             ^
+[0.485s] SyntaxError: invalid syntax
+[0.485s] 
+[0.485s] byte-compiling /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button/__init__.py to __init__.cpython-310.pyc
+[0.485s] running install_data
+[0.485s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/share/ament_index
+[0.485s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/share/ament_index/resource_index
+[0.485s] creating /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/share/ament_index/resource_index/packages
+[0.485s] copying resource/infra_button -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/share/ament_index/resource_index/packages
+[0.486s] copying package.xml -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/share/infra_button
+[0.486s] running install_egg_info
+[0.486s] Copying build/infra_button/infra_button.egg-info to /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button-0.0.0-py3.10.egg-info
+[0.486s] running install_scripts
+[0.500s] writing list of installed files to '/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/install.log'
+[0.529s] Invoked command in '/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button' returned '0': PYTHONPATH=/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/infra_button build --build-base /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build install --record /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/install.log --single-version-externally-managed install_data

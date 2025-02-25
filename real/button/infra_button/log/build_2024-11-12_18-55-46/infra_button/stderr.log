@@ -1,0 +1,5 @@
+  File "/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button/button_publisher.py", line 41
+    self.status_button_a_ = !self.status_button_a_
+                            ^
+SyntaxError: invalid syntax
+

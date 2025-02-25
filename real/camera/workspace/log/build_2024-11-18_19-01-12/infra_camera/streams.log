@@ -1,0 +1,24 @@
+[0.321s] Invoking command in '/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/infra_camera': PYTHONPATH=/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/infra_camera build --build-base /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build install --record /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log --single-version-externally-managed install_data
+[0.447s] running egg_info
+[0.448s] writing ../build/infra_camera/infra_camera.egg-info/PKG-INFO
+[0.448s] writing dependency_links to ../build/infra_camera/infra_camera.egg-info/dependency_links.txt
+[0.448s] writing entry points to ../build/infra_camera/infra_camera.egg-info/entry_points.txt
+[0.448s] writing requirements to ../build/infra_camera/infra_camera.egg-info/requires.txt
+[0.448s] writing top-level names to ../build/infra_camera/infra_camera.egg-info/top_level.txt
+[0.449s] reading manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+[0.449s] writing manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+[0.450s] running build
+[0.450s] running build_py
+[0.450s] copying infra_camera/camera_publisher.py -> /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera
+[0.450s] running install
+[0.450s] running install_lib
+[0.450s] copying /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera/camera_publisher.py -> /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages/infra_camera
+[0.451s] byte-compiling /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages/infra_camera/camera_publisher.py to camera_publisher.cpython-310.pyc
+[0.452s] running install_data
+[0.452s] running install_egg_info
+[0.453s] removing '/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages/infra_camera-0.0.0-py3.10.egg-info' (and everything under it)
+[0.453s] Copying ../build/infra_camera/infra_camera.egg-info to /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages/infra_camera-0.0.0-py3.10.egg-info
+[0.454s] running install_scripts
+[0.467s] Installing camera_publisher script to /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/infra_camera
+[0.467s] writing list of installed files to '/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log'
+[0.482s] Invoked command in '/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/infra_camera' returned '0': PYTHONPATH=/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/infra_camera build --build-base /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build install --record /home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[0.678s] Invoking command in '/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/infra_camera': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(hakoniwa_camera) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(hakoniwa_camera) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/infra_camera build --build-base /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build install --record /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log --single-version-externally-managed install_data
+[0.901s] running egg_info
+[0.919s] writing ../build/infra_camera/infra_camera.egg-info/PKG-INFO
+[0.919s] writing dependency_links to ../build/infra_camera/infra_camera.egg-info/dependency_links.txt
+[0.920s] writing entry points to ../build/infra_camera/infra_camera.egg-info/entry_points.txt
+[0.920s] writing requirements to ../build/infra_camera/infra_camera.egg-info/requires.txt
+[0.920s] writing top-level names to ../build/infra_camera/infra_camera.egg-info/top_level.txt
+[0.955s] reading manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+[0.956s] writing manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+[0.956s] running build
+[0.956s] running build_py
+[0.956s] running install
+[0.962s] running install_lib
+[0.979s] running install_data
+[0.979s] running install_egg_info
+[0.997s] removing '/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera-0.0.0-py3.12.egg-info' (and everything under it)
+[0.997s] Copying ../build/infra_camera/infra_camera.egg-info to /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera-0.0.0-py3.12.egg-info
+[0.998s] running install_scripts
+[1.113s] Installing camera_publisher script to /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/infra_camera
+[1.113s] writing list of installed files to '/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log'
+[1.138s] Invoked command in '/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/infra_camera' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(hakoniwa_camera) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(hakoniwa_camera) /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/infra_camera build --build-base /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build install --record /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log --single-version-externally-managed install_data

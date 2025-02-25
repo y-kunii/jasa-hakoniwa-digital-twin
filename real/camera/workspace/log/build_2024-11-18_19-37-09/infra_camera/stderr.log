@@ -1,0 +1,5 @@
+  File "/home/jasa/work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.10/site-packages/infra_camera/camera_publisher.py", line 164
+    self.template_pic = cv2.resize(self.template_pic, (int(self.w*0.4), int(self.h*0.4))
+                                  ^
+SyntaxError: '(' was never closed
+

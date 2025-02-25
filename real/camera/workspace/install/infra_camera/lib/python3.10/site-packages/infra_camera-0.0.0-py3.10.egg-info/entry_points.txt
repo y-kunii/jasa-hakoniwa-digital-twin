@@ -1,0 +1,3 @@
+[console_scripts]
+camera_publisher = infra_camera.camera_publisher:main
+

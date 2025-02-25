@@ -1,0 +1,3 @@
+[console_scripts]
+button_publisher = infra_button.button_publisher:main
+

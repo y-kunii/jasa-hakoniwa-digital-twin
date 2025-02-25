@@ -1,0 +1,33 @@
+running egg_info
+creating ../build/infra_camera/infra_camera.egg-info
+writing ../build/infra_camera/infra_camera.egg-info/PKG-INFO
+writing dependency_links to ../build/infra_camera/infra_camera.egg-info/dependency_links.txt
+writing requirements to ../build/infra_camera/infra_camera.egg-info/requires.txt
+writing top-level names to ../build/infra_camera/infra_camera.egg-info/top_level.txt
+writing manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+reading manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+writing manifest file '../build/infra_camera/infra_camera.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera
+copying infra_camera/camera_publisher.py -> /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera
+copying infra_camera/__init__.py -> /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera
+running install
+running install_lib
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera
+copying /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera/camera_publisher.py -> /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera
+copying /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/build/lib/infra_camera/__init__.py -> /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera
+byte-compiling /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera/camera_publisher.py to camera_publisher.cpython-312.pyc
+byte-compiling /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/share/ament_index
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/share/ament_index/resource_index
+creating /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/share/ament_index/resource_index/packages
+copying resource/infra_camera -> /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/share/ament_index/resource_index/packages
+copying package.xml -> /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/share/infra_camera
+running install_egg_info
+Copying ../build/infra_camera/infra_camera.egg-info to /home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/install/infra_camera/lib/python3.12/site-packages/infra_camera-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/yamada-koki/jasa_work/hakoniwa-digital-twin/real/camera/workspace/build/infra_camera/install.log'

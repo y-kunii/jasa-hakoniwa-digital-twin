@@ -1,0 +1,22 @@
+running egg_info
+writing build/infra_button/infra_button.egg-info/PKG-INFO
+writing dependency_links to build/infra_button/infra_button.egg-info/dependency_links.txt
+writing entry points to build/infra_button/infra_button.egg-info/entry_points.txt
+writing requirements to build/infra_button/infra_button.egg-info/requires.txt
+writing top-level names to build/infra_button/infra_button.egg-info/top_level.txt
+reading manifest file 'build/infra_button/infra_button.egg-info/SOURCES.txt'
+writing manifest file 'build/infra_button/infra_button.egg-info/SOURCES.txt'
+running build
+running build_py
+copying infra_button/button_publisher.py -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button
+running install
+running install_lib
+copying /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/build/lib/infra_button/button_publisher.py -> /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button
+byte-compiling /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button/button_publisher.py to button_publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/infra_button/infra_button.egg-info to /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/python3.10/site-packages/infra_button-0.0.0-py3.10.egg-info
+running install_scripts
+Installing button_publisher script to /home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/install/infra_button/lib/infra_button
+writing list of installed files to '/home/jasa/work/hakoniwa-digital-twin/real/button/infra_button/build/infra_button/install.log'
